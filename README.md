@@ -1,0 +1,1 @@
+ A dataset about LinkedIn job postings was taken from Kaggle website in order to practice data collection, data preprocessing and data visulization using Microsoft PowerBI application. After the data preprocessing the data was used to create a dashboard for the visalizations.
